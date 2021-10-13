@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sandimax
+- 👋 Hi, I’m Sandima
 - 👀 I’m interested in ...JavaScript, PHP, SQL, HTML and Css
 - 🌱 I’m currently learning ...JavaScript
 - 💞️ I’m looking to collaborate on ...
